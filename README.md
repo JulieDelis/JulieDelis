@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JulieDelis
-- 👀 I’m interested in biology and artificial intelligence.
-- 🌱 I’m currently learning how to imrove my code so I can actually use it.
+- 👋 Hi, I’m @Syled
+- 👀 I’m interested in bio-informatics and machine learning.
+- 🌱 I’m currently improving my coding skills.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
